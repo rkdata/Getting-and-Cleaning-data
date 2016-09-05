@@ -12,6 +12,7 @@ This created data set was combined with subject identifiers "subject" and activi
 Tidy data set
 
 The data set was approriately label with the descriptive variable names as following
+
 prefix "t" was replaced by time
 "Acc" was replaced by "Accelerometer
 "Gyro" was replaced by Gyrocsope
