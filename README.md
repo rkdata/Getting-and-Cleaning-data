@@ -8,12 +8,14 @@ This data set provides the following records and has been randomly partitioned i
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-run_analysis.R script was created to get the tidy data set as cleandata.txt by using the below given steps
+run_analysis.R script was created to get the tidy data set as cleandata.txt by using the below given steps.
+
 Following files were merged to create one data set:
--'train/X_train.txt': Training set.
--'train/y_train.txt': Training labels.
--'test/X_test.txt': Test set.
--'test/y_test.txt': Test labels.
+ -'train/X_train.txt': Training set.
+ -'train/y_train.txt': Training labels.
+ -'test/X_test.txt': Test set.
+ -'test/y_test.txt': Test labels.
+ 
 Features were named using the list in feature.txt file.
 Activities performed by the subjects were labelled using the data provided in the activity_labels.txt file.
 Data was merged only for the mean and standard deviation measurements.
